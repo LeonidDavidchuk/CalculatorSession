@@ -1,8 +1,10 @@
-.selection{
-
+.selection {
     width: 500px;
     margin-left: 650px;
     margin-top: 100px;
+}
 
-
+.head {
+    font-weight: bold;
+    font-size: 30px;
 }
