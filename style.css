@@ -1,10 +1,22 @@
 .selection {
-    width: 500px;
-    margin-left: 650px;
+    width: 30%;
+    height: 10%;
     margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .head {
     font-weight: bold;
     font-size: 30px;
+}
+
+.EnterField{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 10%;
+
 }
